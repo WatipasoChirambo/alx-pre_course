@@ -1,0 +1,3 @@
+ihijoji
+hoiojo
+exit
