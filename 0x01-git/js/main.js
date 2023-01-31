@@ -1,3 +1,0 @@
-ihijoji
-hoiojo
-exit

@@ -1,4 +1,0 @@
-huhcusdi
-cnsdiio
-ndichodics
-exit()
